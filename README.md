@@ -1,5 +1,4 @@
-# Arduino - OpenWRT - Telegram
-# Smart Vehicle Using Telegram
+# [Arduino-OpenWRT-Telegram] Smart Vehicle Using Telegram
 
 Smart Vehicle Control using Telegram
 
