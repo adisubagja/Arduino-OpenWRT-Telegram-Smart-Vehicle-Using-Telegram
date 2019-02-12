@@ -5,4 +5,4 @@ Motor vehicles are a valuable and crime-prone item such as motor vehicle theft. 
 
 Keywords - Arduino, Telegram, Openwrt, Security, Vehicle. 
 
-Demo Video : https://www.youtube.com/watch?v=gtNOKDrFpfo&fbclid=IwAR1fFdZnSMWyu5YY0z1ezkOcNbZsoUbXFdvVUtNXnPmklir5KDr9dwtlb2M
+Demo Video : https://youtu.be/gtNOKDrFpfo
